@@ -3,8 +3,8 @@
 学习自：
 https://cloud.tencent.com/developer/article/1446939 ：定义；类型；发生位置；命名
 https://cloud.tencent.com/developer/article/1447204 ：两个数据库 dbSNP HGVS
-https://cloud.tencent.com/developer/article/1447229 ：一个数据库 TCGA数据
-https://cloud.tencent.com/developer/article/1451304 ：cBioportal数据库  UCSC-XENA工具
+https://cloud.tencent.com/developer/article/1447229 ：一个数据库 TCGA数据（要翻墙）
+https://cloud.tencent.com/developer/article/1451304 ：cBioportal数据库（要翻墙）  UCSC-XENA工具
 https://cloud.tencent.com/developer/article/1465029 ：SNP数据下载的最后一讲Fire Browse工具。
 https://cloud.tencent.com/developer/article/1468786 ：用maftools对maf文件进行处理
 https://cloud.tencent.com/developer/article/1484937 ：画图
